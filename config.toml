@@ -1,4 +1,4 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://remigioamc.github.io/hugo-prueba/"
 languageCode = "en-us"
 title = "Gones"
 theme = "hugo-initio"
