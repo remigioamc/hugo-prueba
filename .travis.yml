@@ -1,22 +1,18 @@
-language: go
+# Install the apt prerequisites
+addons:
+  apt:
+    packages:
+      - python-pygments
+# Clean and don't fail
 
-go:
-  - master # This uses automatically the latest version of go
-
-install:
-  - go get github.com/spf13/hugo # This provides the latest version of Hugo to Travis CI
-
+# Build the website
 script:
-  - hugo # This commands builds your website on travis
-
+  - binaries/hugo --theme=hugo-initio
+# Deploy to GitHub pages
 deploy:
-  local_dir: docs
-  repo: remigioamc/hugo-prueba # This is the slug of the repo you want to deploy your site to
-  target_branch: gh-pages # GitHub pages branch to deploy to (in other cases it can be gh-pages)
   provider: pages
   skip_cleanup: true
-  github_token: $GITHUB_TOKEN # This is the authentication which you will setup in the next step in travis-ci dashboard
-  email: yourmail@mail.com
-  name: "Your username"
+  github_token: $GITHUB_TOKEN
+  local_dir: docs
   on:
     branch: master
