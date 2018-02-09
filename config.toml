@@ -1,6 +1,6 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://remigioamc.github.io/hugo-prueba/"
 languageCode = "en-us"
-title = "Initio - Free, multipurpose html5 template by GetTemplate"
+title = "Gones"
 theme = "hugo-initio"
 publishDir = "docs"
 
