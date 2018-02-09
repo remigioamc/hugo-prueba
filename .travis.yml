@@ -3,7 +3,8 @@ addons:
   apt:
     packages:
       - python-pygments
-# Clean and don't fail
+git:
+    submodules: false
 
 # Build the website
 script:
