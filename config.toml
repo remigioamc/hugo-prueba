@@ -1,4 +1,4 @@
-baseURL = "https://remigioamc.github.io/hugo-prueba/"
+baseURL = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Gones"
 theme = "hugo-initio"
@@ -20,7 +20,7 @@ publishDir = "docs"
     showRecentWorks = true
     showDownload = true
     showClients = true
-
+    twitteruser = "remoamc"
     
 
 [[menu.main]]
