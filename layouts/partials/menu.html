@@ -10,7 +10,7 @@
             <ul class="nav navbar-nav">
                 {{ range .Site.Menus.main }}
                 <li>
-                    <a href="{{ .URL }}">{{ .Name }}</a>
+                    <a class="page-scroll" href="{{ .URL }}">{{ .Name }}</a>
                 </li>
                 {{end}}
                 <!--

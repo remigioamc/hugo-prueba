@@ -128,11 +128,11 @@ body {
   color: #f392b4;
 }
 .nav-side > li > a:hover {
-  color: #bd1550;
+  color: #077a8a;
   background: none;
 }
 .nav-side > li.active > a {
-  color: #bd1550;
+  color: #077a8a;
 }
 /*********************************************************************
 
@@ -192,10 +192,10 @@ h5 {
   font-size: 1.25rem;
 }
 a {
-  color: #bd1550;
+  color: #077a8a;
 }
 a:hover {
-  color: #e93675;
+  color: #077a8a;
 }
 .lead {
   font-weight: 300;
@@ -312,7 +312,7 @@ img {
 }
 .btn-primary {
   color: #fff;
-  background-color: #bd1550;
+  background-color: #077a8a;
 }
 .btn-primary:hover,
 .btn-primary:focus,
@@ -331,8 +331,8 @@ img {
 .btn-action:focus,
 .btn-action:active,
 .btn-action.active {
-  color: #bd1550;
-  border-color: #bd1550;
+  color: #077a8a;
+  border-color: #077a8a;
 }
 .btn-lg {
   padding: 15px 60px;
@@ -451,7 +451,7 @@ img {
   font-size: 0.75rem;
   text-transform: uppercase;
   text-shadow: 0 1px 0px #780d33;
-  background: #bd1550;
+  background: #077a8a;
   color: white;
 }
 .thumbnail img {
@@ -702,7 +702,7 @@ footer.entry-meta .meta-in {
   color: #333333;
 }
 #comments .comment-meta a:hover {
-  color: #bd1550;
+  color: #077a8a;
 }
 #comments .comment-meta .author {
   margin: 0 20px 0 0;

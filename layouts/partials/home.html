@@ -6,6 +6,18 @@
             {{ partial "subheader.html" . }}
         {{ end }}
 
+        {{ if .Site.Params.showMision }}
+            {{ partial "mision.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.showVision }}
+            {{ partial "vision.html" . }}
+        {{ end }}
+
+        {{ if .Site.Params.showSomos }}
+            {{ partial "somos.html" . }}
+        {{ end }}
+
         {{ if .Site.Params.showServices }}
             {{ partial "services.html" . }}
         {{ end }}

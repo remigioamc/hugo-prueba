@@ -5,11 +5,11 @@ theme = "hugo-initio"
 publishDir = "docs"
 
 [params]
-    name = "Anthony Russel"
-    description = "A mystery person"
-    email = "anthony.russel42@example.com"
-    phone = "+234 23 9873237"
-    address = "234 Hidden Pond Road, Ashland City, TN 37015"
+    name = "Gones Tax & Consulting"
+    description = "Tax & Consulting"
+    email = "josea.gonzalez@gonestax.com"
+    phone = "70-95-11-52"
+    address = "AVENIDA REVOLUCION No. 1125 INT 7 COL MERCED GOMEZ.C.P. 03930 BENITO JUAREZ, CDMX, MEXICO."
     year = 2017
     background = ""
     favicon = "images/gt_favicon.png"
@@ -17,19 +17,33 @@ publishDir = "docs"
 
     showSubheader = true
     showServices = true
-    showRecentWorks = true
+    showRecentWorks = false
     showDownload = true
     showClients = true
-    twitteruser = "remoamc"
+    showVision = true
+    showMision = true
+    showSomos = true
     
 
 [[menu.main]]
-    name = "home"
+    name = "Home"
     url = "/"
     weight = 1
 [[menu.main]]
-    name = "blog"
-    url = "/post/"
+    name = "Misión"
+    url = "#mision"
+    weight = 2
+[[menu.main]]
+    name = "Visión"
+    url = "#vision"
+    weight = 3
+[[menu.main]]
+    name = "¿Quiénes somos?"
+    url = "#somos"
+    weight = 4
+[[menu.main]]
+    name = "Servicios"
+    url = "#services"
     weight = 5
 
 [params.disqus]
@@ -60,7 +74,7 @@ publishDir = "docs"
 	title = "instagram"
 	url = "https://www.instagram.com/nickname"
     icon = "fa-instagram"
-    footer = true
+    footer = false
     sharethis = false
     network = ""
 [[params.social]]
@@ -68,14 +82,14 @@ publishDir = "docs"
 	url = "https://plus.google.com/+nickname"
     icon = "fa-google-plus-square"
     footer = false
-    sharethis = true
+    sharethis = false
     network = "googleplus"
 [[params.social]]
 	title = "linkedin"
 	url = "https://www.linkedin.com/in/nickname"
     icon = "fa-linkedin-square"
     footer = false
-    sharethis = true
+    sharethis = false
     network = "linkedin"
 [[params.social]]
 	title = "tumblr"
@@ -88,13 +102,13 @@ publishDir = "docs"
 	title = "github"
 	url = "https://github.com/nickname"
     icon = "fa-github"
-    footer = true
+    footer = false
     sharethis = false
     network = ""
 [[params.social]]
 	title = "email"
 	url = "mailto:some.email@somewhere.com"
     icon = "fa-envelope"
-    footer = false
+    footer = true
     sharethis = true
     network = "email"
