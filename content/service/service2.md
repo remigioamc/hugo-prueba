@@ -1,5 +1,5 @@
 +++
-title = "Auditorias Financieras"
+title = "Auditorías Financieras"
 +++
 
 La entidad requiere optimizar los recursos humanos y financieros, por tal motivo es

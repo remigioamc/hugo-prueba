@@ -1,5 +1,5 @@
 +++
-title = "Planeacion Fiscal Corporativa y Patrimonial."
+title = "Planeación Fiscal Corporativa y Patrimonial."
 +++
 La complejidad de las disposiciones fiscales mexicanas, obliga a los contribuyentes a diferir
 o inclusive disminuir dentro del marco legal, la carga fiscal de la compañía o grupo de

@@ -1,5 +1,5 @@
 +++
-title = "Auditorias de Seguro Social, Infonavit y Contribuciones Locales"
+title = "Auditorías de Seguro Social, Infonavit y Contribuciones Locales"
 +++
 
 En materia de cumplimiento obligatorio o de forma voluntaria las Empresas

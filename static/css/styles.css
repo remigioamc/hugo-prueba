@@ -288,9 +288,19 @@ a:hover {
 .altarnate h2{
   color: white !important;
 }
+.altarnate h3 {
+    color: white;
+    font-size: 1rem;
+}
 .no-padding{
   padding-top: 0 !important;
   padding-bottom: 0 !important;
+}
+.margin-list{
+  margin-top: 50px;
+}
+h2 span {
+    margin-bottom: 40px;
 }
 .lead-title{
       font-weight: 600;
@@ -301,7 +311,7 @@ a:hover {
 .container{
     margin-left: auto;
     margin-right: auto;
-    padding-top: 120px;
+    padding-top: 150px;
     padding-bottom: 120px;
 }
 img {
