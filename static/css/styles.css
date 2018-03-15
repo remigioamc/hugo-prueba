@@ -290,7 +290,10 @@ a:hover {
 }
 .altarnate h3 {
     color: white;
-    font-size: 1rem;
+    font-size: 1rem !important;
+}
+.altarnate a:hover {
+    color: white;
 }
 .no-padding{
   padding-top: 0 !important;
