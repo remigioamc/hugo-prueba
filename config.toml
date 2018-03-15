@@ -31,19 +31,19 @@ publishDir = "docs"
     weight = 1
 [[menu.main]]
     name = "Misión"
-    url = "#mision"
+    url = "/#mision"
     weight = 2
 [[menu.main]]
     name = "Visión"
-    url = "#vision"
+    url = "/#vision"
     weight = 3
 [[menu.main]]
     name = "¿Quiénes somos?"
-    url = "#somos"
+    url = "/#somos"
     weight = 4
 [[menu.main]]
     name = "Servicios"
-    url = "#services"
+    url = "/#services"
     weight = 5
 
 [params.disqus]

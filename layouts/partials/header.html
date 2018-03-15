@@ -34,6 +34,9 @@
 	<div id="head">
 		<h1 id="logo" class="text-center">
 			<img class="img" src="{{ .Site.BaseURL }}images/guy1.png" alt="">
+		{{ if .Site.Params.showSubheader }}
+            {{ partial "subheader.html" . }}
+        {{ end }}
 		</h1>
 	</div>
 	<div>

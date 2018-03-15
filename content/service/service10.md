@@ -9,7 +9,7 @@ requerimientos o aclaraciones ante instancias como el IMSS, SAR e INFONAVIT.
 Contamos con los siguientes servicios:
 
 
-* Elaboración de nóminas semanales, quincenales, mensuales, de ejecutivos, nominas
+* Elaboración de nóminas semanales, quincenales, mensuales, de ejecutivos, nóminas
 espejo.
 
 
@@ -22,7 +22,7 @@ espejo.
 * Atención de requerimientos y aclaraciones ante el IMSS, INFONAVIT.
 
 
-* Atención de Auditorías por parte de la Secretaria del Trabajo y Previsión Social.
+* Atención de Auditorías por parte de la Secretaría del Trabajo y Previsión Social.
 
 
 * Elaboración o en su caso revisión de contratos individuales de trabajo.

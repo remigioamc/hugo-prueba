@@ -13,7 +13,7 @@ responsabilidad.
 
 * Entrenamiento en contabilidad fiscal, control interno, implicaciones fiscales de las
 operaciones de la empresa, Normas de Información Financiera, Estrategias para un
-optimo cierre fiscal anual.
+óptimo cierre fiscal anual.
 
 
 * En su caso, preparar algún curso especial de acuerdo a las necesidades de nuestro

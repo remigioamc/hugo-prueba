@@ -31,4 +31,4 @@ correspondientes.
 
 * Tramites ante el Servicio de Administración Tributaria: Alta en el Régimen Federal de
 Contribuyentes, obtención de firmas electrónicas, tramite de Constancia de residencia
-discal para expatriados y ejecutivos según el caso, etc.
+fiscal para expatriados y ejecutivos según el caso, etc.

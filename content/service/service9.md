@@ -2,7 +2,7 @@
 title = "Servicios de Contabilidad"
 +++
 Nuestra firma de contadores ofrece apoyo para tener la contabilidad de la entidad al
-corriente y hacer frente a las autoridades discales, con la tranquilidad de solventar
+corriente y hacer frente a las autoridades fiscales, con la tranquilidad de solventar
 cualquier solicitud a requerimiento de la Secretaria de Hacienda y Crédito Público con
 personal profesional y calificado.
 
