@@ -32,10 +32,10 @@ utilidades gravadas por enajenación de acciones en Bolsa (Régimen Celular Anua
 * Reestructuras Corporativas.
 
 
-* Tramites de autorización de estímulos fiscales.
+* Trámites de autorización de estímulos fiscales.
 
 
-* Tramites de autorización de donatarias.
+* Trámites de autorización de donatarias.
 
 
 * Consolidación fiscal antes, durante y posterior a la Reforma Fiscal de 2010,

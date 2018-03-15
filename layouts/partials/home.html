@@ -1,6 +1,7 @@
-<main id="main">
+<main>
 
 	<div>
+    <div ></div>
       <div >
         {{ if .Site.Params.showMision }}
             {{ partial "mision.html" . }}
@@ -21,15 +22,15 @@
             {{ partial "services.html" . }}
         {{ end }}
       </div>
-      <div class="container" style="padding-bottom: 0">
+        {{ if .Site.Params.showClients }}
+            {{ partial "clients.html" . }}
+        {{ end }}
+      <div class="container" style="padding-top: 0">
         {{ if .Site.Params.showDownload }}
             {{ partial "download.html" . }}
         {{ end }}
       </div>
       <div>
-        {{ if .Site.Params.showClients }}
-            {{ partial "clients.html" . }}
-        {{ end }}
 
   </div>  </div>	<!-- /container -->
 

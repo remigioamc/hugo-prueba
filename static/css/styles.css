@@ -11,6 +11,16 @@ body {
 .topspace {
   margin-top: 40px;
 }
+[id]:before { 
+  display: block; 
+  content: " "; 
+  margin-top: -1500px; 
+  height: 1500px; 
+  visibility: hidden; 
+}
+main{
+  margin-top: 50px;
+}
 /*********************************************************************
 
 
@@ -27,6 +37,13 @@ body {
   border-radius: 0;
   background-clip: padding-box;
   width: 100%;
+  margin-bottom: 0px;
+}
+.first {
+  padding-top: 175px;
+}
+.link-space{
+  margin-top: 75px;
 }
 .navbar.stick {
   position: fixed;

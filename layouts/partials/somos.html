@@ -11,13 +11,13 @@
             Nuestra gente es nuestro soporte para brindar servicios de alta calidad a nuestros
             clientes que son nuestra razón de ser.
         </div>
-       <div class="col-sm-12 col-md-12 lead text-center">
+       <div class="col-sm-12 col-md-12 lead text-center link-space">
             Nuestros socios son:
         </div>
     
         {{ range where .Data.Pages.ByWeight "Section" "person" }}
         <div class="col-sm-12 col-md-12">
-            <a href="{{ .Permalink }}"><h3 class="text-center">{{ .Title }}</h3></a>
+            <a href="{{ .Permalink }}/#content"><h3 class="text-center">{{ .Title }}</h3></a>
         </div>
         {{ end }}
         </div>
