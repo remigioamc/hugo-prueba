@@ -11,13 +11,6 @@ body {
 .topspace {
   margin-top: 40px;
 }
-[id]:before { 
-  display: block; 
-  content: " "; 
-  margin-top: -1500px; 
-  height: 1500px; 
-  visibility: hidden; 
-}
 main{
   margin-top: 50px;
 }
