@@ -3,7 +3,7 @@
         <div class="panel-body">
          {{ range where .Data.Pages "Section" "tweet" }}
             <div class="col-sm-12 col-md-4">
-                <a href="{{ .Permalink }}"><h3 class="text-center">{{ .Content }}</h3></a>
+                {{ .Content }}
             </div>
          {{ end }}
         </div>
