@@ -1,5 +1,5 @@
 +++
-title = "C.P Anabel Cedillo Rodríguez"
+title = "C.P. Anabel Cedillo Rodríguez"
 weight = 6
 +++
 La <span class="invert-font">Contadora Cedillo</span> es egresada de la Escuela Superior de Comercio y

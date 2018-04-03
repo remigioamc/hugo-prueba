@@ -1,5 +1,5 @@
 +++
-title = "C.P Yolanda Alvarado Hernández"
+title = "C.P. Yolanda Alvarado Hernández"
 weight = 5
 +++
 La <span class="invert-font">Contadora Alvarado</span> es egresada de la Escuela Superior de Comercio y

@@ -340,13 +340,32 @@ h2 span {
     font-size: 1.3125rem;
     color: black;
 }
-.container{
+.container-not-center{
+  margin-left: auto;
+    margin-right: auto;
+    padding-top: 200px;
+    margin-top: -50px;
+    padding-bottom: 170px;
+    margin-bottom: 50px;
+}
+
+.container-center{
     margin-left: auto;
     margin-right: auto;
     padding-top: 200px;
     margin-top: -50px;
     padding-bottom: 170px;
     margin-bottom: 50px;
+}
+
+@media (min-width: 700px) {
+  .container-center{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    min-height: 100vh;
+    max-width: 980px;
+  }
 }
 img {
   max-width: 100%;
@@ -864,7 +883,7 @@ footer.entry-meta .meta-in {
 /////////////////////////////////////////////////////////////////////*/
 @media (min-width: 1200px) {
   .container {
-    max-width: 1080px;
+    max-width: 980px;
   }
 }
 /*********************************************************************

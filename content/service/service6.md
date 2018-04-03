@@ -67,4 +67,4 @@ aviones privados, etc.
 
 * <span class="invert-font">Asesoría Fiscal sobre sucesiones patrimoniales (Herencias, legados) utilizando
 estructuras patrimoniales i.e. Trust o Fundaciones constituidas offshore: Curacao, B.V. o
-Fundaciones en Holanda o Nueva Zelanda.</span>
+Fundaciones en Holanda o Nueva Zelanda</span>

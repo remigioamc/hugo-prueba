@@ -29,6 +29,6 @@ correspondientes.</span>
 * <span class="invert-font">Contabilidad de Personas Físicas.</span>
 
 
-* Tramites ante el Servicio de Administración Tributaria: Alta en el Régimen Federal de
-Contribuyentes, obtención de firmas electrónicas, tramite de Constancia de residencia
+* Trámites ante el Servicio de Administración Tributaria: Alta en el Régimen Federal de
+Contribuyentes, obtención de firmas electrónicas, trámite de Constancia de residencia
 fiscal para expatriados y ejecutivos según el caso, etc.
