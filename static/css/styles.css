@@ -20,6 +20,10 @@ main{
     top: -250px;
     visibility: hidden;
 }
+.container-foot{
+  margin-right: 30px;
+  margin-left: 30px;
+}
 /*********************************************************************
 
 
@@ -310,6 +314,13 @@ a:hover {
     color: white;
     font-size: 1rem !important;
 }
+.altarnate .invert-font{
+    color: #413d3e;
+}
+.invert-font{
+  color: #057a8b;
+  font-weight: bold !important;
+} 
 .altarnate a:hover {
     color: white;
 }

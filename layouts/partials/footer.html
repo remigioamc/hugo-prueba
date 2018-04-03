@@ -1,11 +1,15 @@
 <footer id="footer">
-	<div class="container no-padding">
+	<div class="container-foot no-padding">
 		<div class="row">
 			<div class="col-md-3 widget">
 				<h3 class="widget-title">Contacto</h3>
 				<div class="widget-body">
-					<p>{{ .Site.Params.phone }}<br>
-						<a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.email }}</a><br>
+					<p>{{ .Site.Params.phone1 }}<br>
+						<a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.nombre1 }}</a><br><br>
+						{{ .Site.Params.phone2 }}<br>
+						<a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.nombre2 }}</a><br><br>
+						{{ .Site.Params.phone3 }}<br>
+						<a href="mailto:{{ .Site.Params.email }}">{{ .Site.Params.nombre3 }}</a><br><br>
 						<br>
 						{{ .Site.Params.address }}
 					</p>
@@ -32,7 +36,7 @@
 </footer>
 
 <footer id="underfooter">
-	<div class="container no-padding">
+	<div class="container-foot no-padding">
 		<div class="row">
 
 			<div class="col-md-6 widget">

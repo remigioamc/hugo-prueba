@@ -1,28 +1,21 @@
 +++
-title = "Servicios de Contabilidad"
+title = "Cursos de capacitación"
 +++
-Nuestra firma de contadores ofrece apoyo para tener la contabilidad de la entidad al
-corriente y hacer frente a las autoridades fiscales, con la tranquilidad de solventar
-cualquier solicitud a requerimiento de la Secretaria de Hacienda y Crédito Público con
-personal profesional y calificado.
-
-* Elaboración de registros contables y preparación de estados financieros, de acuerdo con
-Normas de Información Financiera.
+La complejidad de las <span class="invert-font">disposiciones fiscales</span> nos obliga como profesionales a tener <span class="invert-font">gente
+competitiva</span> y calificada para contribuir socialmente al desarrollo del personal de la
+compañía, la firma de contadores cuenta con <span class="invert-font">capital humano</span> de experiencia para capacitar
+a los empleados que tengan funciones dentro de la entidad con un alto nivel de
+responsabilidad.
 
 
-* Determinación de impuestos diferidos.
+* <span class="invert-font">Platicas de Reformas Fiscales 2018.</span>
 
 
-* Traducción de estados financieros.
+* Entrenamiento en contabilidad fiscal, control interno, implicaciones fiscales de las
+operaciones de la empresa, Normas de Información Financiera, Estrategias para un
+óptimo cierre fiscal anual.
 
 
-* Administración de cuentas por cobrar y por pagar.
-
-
-* Preparación de anexos fiscales.
-
-
-* Presupuestos y flujos de efectivo.
-
-
-* Inventarios físicos de materiales y activos fijos.
+* <span class="invert-font">En su caso, preparar algún curso especial de acuerdo a las necesidades de nuestro
+clientes i.e. Aplicación de Tratados para Evitar la Doble Tributación, BEPS, FATCA,
+Legislación Energética (En general y desde el punto de vista fiscal).</span>
