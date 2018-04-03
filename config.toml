@@ -1,4 +1,4 @@
-baseURL = "https://gonestax.com/"
+baseURL = "https://www.gonestax.com/"
 languageCode = "en-us"
 title = "Gones"
 theme = "hugo-initio"
