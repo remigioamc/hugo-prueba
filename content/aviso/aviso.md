@@ -21,7 +21,7 @@ así como el uso del sitio web de **GONES TAX &amp; CONSULTING, S.C.** o el us
 servicio después de publicar un cambio a esta política implica que acepta dichos cambios y se
 obliga a respetarlos. Podrá acceder a la última versión de esta Aviso de privacidad visitando
 nuestro sitio web y haciendo clic en “Aviso de privacidad” al pie de las páginas del sitio web
-de http://DIRECCION DE LA PAGINA WEB
+de http://www.gonestax.com
 
 
 Para garantizar el correcto resguardo de sus datos personales y para dar pleno cumplimiento a las
