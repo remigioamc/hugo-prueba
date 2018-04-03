@@ -1,4 +1,4 @@
-baseURL = "https://remigioamc.github.io/hugo-prueba/"
+baseURL = "https://remigioamc.github.io/"
 languageCode = "en-us"
 title = "Gones"
 theme = "hugo-initio"
