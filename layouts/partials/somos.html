@@ -19,7 +19,7 @@
     
         {{ range where .Data.Pages.ByWeight "Section" "person" }}
         <div class="col-sm-12 col-md-12">
-            <a href="{{ .Permalink }}/#content"><h3 class="text-center">{{ .Title }}</h3></a>
+            <a href="{{ .Permalink }}#content"><h3 class="text-center">{{ .Title }}</h3></a>
         </div>
         {{ end }}
         </div>
