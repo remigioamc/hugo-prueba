@@ -42,7 +42,7 @@
 			<div class="col-md-6 widget">
 				<div class="widget-body">
 					{{ range where .Data.Pages "Section" "aviso" }}
-						<a href="{{ .Permalink }}/#content"><p class="text-center">{{ .Title }}</p></a>
+						<a href="{{ .Permalink }}#content"><p class="text-center">{{ .Title }}</p></a>
 				{{ end }}
 				</div>
 			</div>
