@@ -8,7 +8,7 @@ addons:
 # Build the website
 script:
   - binaries/hugo --theme=hugo-initio
-  - echo 'gonestax.com' > docs/CNAME
+  - echo 'www.gonestax.com' > docs/CNAME
 # Deploy to GitHub pages
 deploy:
   provider: pages
