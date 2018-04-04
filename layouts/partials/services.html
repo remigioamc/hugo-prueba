@@ -3,7 +3,7 @@
     <div class="row margin-list">
         {{ range where .Data.Pages "Section" "service" }}
             <div class="col-sm-12 col-md-6">
-                <a href="{{ .Permalink }}/#content"><h3 class="text-center">{{ .Title }}</h3></a>
+                <a href="{{ .Permalink }}#content"><h3 class="text-center">{{ .Title }}</h3></a>
             </div>
         {{ end }}
     </div>
