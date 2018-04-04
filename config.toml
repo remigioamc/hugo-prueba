@@ -1,6 +1,6 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "Gones"
+title = "Gones|Tax & Consulting"
 theme = "hugo-initio"
 publishDir = "docs"
 
