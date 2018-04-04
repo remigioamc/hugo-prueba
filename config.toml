@@ -19,7 +19,7 @@ publishDir = "docs"
     address = "AVENIDA REVOLUCION No. 1125 INT 7 COL MERCED GOMEZ.C.P. 03930 BENITO JUAREZ, CDMX, MEXICO."
     year = 2017
     background = ""
-    favicon = "images/gt_favicon.png"
+    favicon = "images/favicon.ico"
     DateForm = "January 2, 2006"
 
     showSubheader = true
