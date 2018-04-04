@@ -1,5 +1,5 @@
 +++
-title = "Planeación Fiscal Corporativa y Patrimonial."
+title = "Planeación Fiscal Corporativa y Patrimonial"
 +++
 La complejidad de las <span class="invert-font">disposiciones fiscales mexicanas</span>, obliga a los contribuyentes a diferir
 o inclusive disminuir dentro del marco legal, la carga fiscal de la compañía o grupo de
@@ -58,7 +58,7 @@ fiscales: CUFIN y CURECA.
 
 * <span class="invert-font">Asesoría Fiscal en la implementación de FIBRAS, SIBRAS, colocaciones en bolsa,
 recompra de acciones, así como de Operaciones Financieras Derivadas (planeación e
-implementación de las mismas)</span>
+implementación de las mismas).</span>
 
 
 * Asesoría y Consultoría Patrimonial para detectar: Activos financieros offshore, yates,
@@ -67,4 +67,4 @@ aviones privados, etc.
 
 * <span class="invert-font">Asesoría Fiscal sobre sucesiones patrimoniales (Herencias, legados) utilizando
 estructuras patrimoniales i.e. Trust o Fundaciones constituidas offshore: Curacao, B.V. o
-Fundaciones en Holanda o Nueva Zelanda</span>
+Fundaciones en Holanda o Nueva Zelanda.</span>
