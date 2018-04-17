@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tweets on Gones|Tax &amp; Consulting</title>
+    <link>/tweet/</link>
+    <description>Recent content in Tweets on Gones|Tax &amp; Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tweet/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tweet1</title>
+      <link>/tweet/tweet1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tweet/tweet1/</guid>
+      <description>#ServiosSAT https://t.co/A63FlCSzpd
+&amp;mdash; GONES TAX CONSULTING (@GONES_TAX) February 19, 2018  </description>
+    </item>
+    
+    <item>
+      <title>tweet2</title>
+      <link>/tweet/tweet2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tweet/tweet2/</guid>
+      <description>Microsoft será aliado en emitir las facturas electrónicas. https://t.co/jASi46hcbY
+&amp;mdash; El Economista (@eleconomista) February 13, 2018  </description>
+    </item>
+    
+    <item>
+      <title>tweet3</title>
+      <link>/tweet/tweet3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tweet/tweet3/</guid>
+      <description>Nosotros protegemos tus datos personales, #PideFactura solo con tu RFC. pic.twitter.com/J2DcyOyVi3
+&amp;mdash; SATMX (@SATMX) February 11, 2018  </description>
+    </item>
+    
+  </channel>
+</rss>

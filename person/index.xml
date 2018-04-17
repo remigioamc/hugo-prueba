@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Persons on Gones|Tax &amp; Consulting</title>
+    <link>/person/</link>
+    <description>Recent content in Persons on Gones|Tax &amp; Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/person/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>L.C.P. José Antonio González Ramírez</title>
+      <link>/person/person1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/person/person1/</guid>
+      <description>El Licenciado González es egresado de la Carrera de Contaduría Pública de la Facultad de Ciencias Administrativas (FACS) de la Universidad Tecnológica de México, cuenta con una basta experiencia de más de 20 años en Asesoría Fiscal y de Negocios; con una experiencia de nueve años en una de los Grupos empresariales más grandes de México y América Latina – Grupo Salinas/T.V. Azteca S.A.B. de C.V. como Gerente de consolidación fiscal y anteriormente como Senior de impuestos en la firma PwC.</description>
+    </item>
+    
+    <item>
+      <title>L.C. Guillermo Esquivel Medina</title>
+      <link>/person/person2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/person/person2/</guid>
+      <description>El Licenciado Esquivel es egresado de la Carrera de Contaduría Pública de la Facultad de Contaduría y Administración (FCA) de la Universidad Nacional Autónoma de México; cuenta con una basta experiencia de más de 23 años en Asesoría Fiscal y de Negocios; con una experiencia de nueve años en una de los Grupos empresariales más grandes de México y América Latina – Grupo Salinas/T.V. Azteca S.A.B. de C.V. como Subdirector de planeación fiscal y anteriormente como Gerente Fiscal en HSBC y en la firma PwC.</description>
+    </item>
+    
+    <item>
+      <title>C.P.C. Salvador López Hernández</title>
+      <link>/person/person3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/person/person3/</guid>
+      <description>El Licenciado López es egresado de la Carrera de Contaduría Pública de la Universidad del Valle de México; cuenta con una basta experiencia de más de 25 años en Asesoría Fiscal, Asesoría en materia de Seguridad Social y de Contribuciones Locales.
+Antes de su incorporación a Gones Tax &amp;amp; Consulting el Licenciado López trabajo por más de 20 años en la firma PwC como gerente Senior de Impuestos de Seguridad Social y de Impuestos Locales con experiencia también en la firma Coopers &amp;amp; Lybrand antes de su fusión en PwC.</description>
+    </item>
+    
+  </channel>
+</rss>

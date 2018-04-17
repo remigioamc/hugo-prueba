@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Avisos on Gones|Tax &amp; Consulting</title>
+    <link>/aviso/</link>
+    <description>Recent content in Avisos on Gones|Tax &amp; Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/aviso/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AVISO DE PRIVACIDAD</title>
+      <link>/aviso/aviso/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/aviso/aviso/</guid>
+      <description>En este Aviso de Privacidad se explica nuestra política respecto de la recolección, uso, divulgación y transmisión de los datos de usuarios por parte de GONES TAX &amp;amp; CONSULTING, S.C. La presente política se podrá modificar a medida que actualizamos y ampliamos nuestros servicios. Por lo tanto, se recomienda consultarla periódicamente. Si accede a nuestro sitio web o de otro modo utiliza nuestro servicio, significa que presta su consentimiento a nuestras prácticas sobre información.</description>
+    </item>
+    
+  </channel>
+</rss>
