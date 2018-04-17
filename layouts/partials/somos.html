@@ -22,6 +22,14 @@
             <a href="{{ .Permalink }}#content"><h3 class="text-center">{{ .Title }}</h3></a>
         </div>
         {{ end }}
+               <div class="col-sm-12 col-md-12 lead text-center link-space">
+            Nuestros asociados son:
+        </div>
+        {{ range where .Data.Pages.ByWeight "Section" "asociados" }}
+        <div class="col-sm-12 col-md-12">
+            <a href="{{ .Permalink }}#content"><h3 class="text-center">{{ .Title }}</h3></a>
+        </div>
+        {{ end }}
         </div>
 
    

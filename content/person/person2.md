@@ -12,7 +12,7 @@ de planeación fiscal y anteriormente como Gerente Fiscal en <span class="invert
 
 El Lic. Esquivel cuenta con un posgrado en Derecho Fiscal en la FCA.
 
-<span class="invert-font">El Licenciado Esquivel habla un ingles fluido.</span>
+<span class="invert-font">El Licenciado Esquivel habla un inglés fluido.</span>
 
 Áreas de Práctica:
 

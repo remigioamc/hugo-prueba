@@ -14,7 +14,7 @@ fiscal y anteriormente como Senior de impuestos en la <span class="invert-font">
 El Lic. González forma parte del Comité YIN de la International
 Fiscal Association capítulo mexicano.
 
-<span class="invert-font">El Licenciado González habla un ingles fluido y un francés en nivel
+<span class="invert-font">El Licenciado González habla un inglés fluido y un francés en nivel
 básico.</span>
 
 Áreas de Práctica:
