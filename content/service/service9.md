@@ -8,7 +8,7 @@ a los empleados que tengan funciones dentro de la entidad con un alto nivel de
 responsabilidad.
 
 
-* <span class="invert-font">Platicas de Reformas Fiscales 2018.</span>
+* <span class="invert-font">Platicas de Reformas Fiscales 2020.</span>
 
 
 * Entrenamiento en contabilidad fiscal, control interno, implicaciones fiscales de las
